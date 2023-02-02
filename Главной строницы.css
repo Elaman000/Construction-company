@@ -1,0 +1,549 @@
+a{
+    text-decoration: none;
+
+}
+.conteiner{
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    border: ;
+    background-color: #FFFBF7;
+    
+}
+.ceiling{
+    border: ;
+    height: 70px;
+    width: 1400px;
+    display: flex;
+    justify-content:space-around; 
+    align-items: center;
+    background-color: #d78534;
+    color: white;
+    
+
+}
+.name{
+    border: ;
+    width: 100px;
+    height: 50px;
+}
+.ceiling-text{
+    border: ;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    display: inline;
+    align-items: center;
+}
+.Language{
+    border:;
+    width: 70px;
+    height: 10px;
+}
+
+.button1{
+    border: ;
+    border-radius: 8px;
+    width: 130px;
+    height: 30px;
+    background-color: rgb(230, 161, 1);
+    margin: 2px 5px 0px 10px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 1px 1px 3px black;
+    font-size: 15px;
+    transition: 0.5s;
+    box-shadow: 0 0 5px black;
+}
+.button1:hover{
+    border: ;
+    border-radius: 8px;
+    width: 130px;
+    height: 30px;
+    background-color: rgb(230, 161, 1);
+    margin: 2px 5px 0px 10px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 1px 1px 3px black;
+    font-size: 18px;
+}
+/*Конец шапка сайта*/
+
+.sections{
+    border: ;
+    height: 70px;
+    width: 1400px;
+    display: flex;
+    justify-content:space-around; 
+    align-items: center
+}
+.sections01{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: ;
+    width: 450px;
+    height: 60px;
+ }
+ .bord0{
+    border: ;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3D1E19;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    transition: 0.8s
+ }
+ .bord0:hover{
+    border:;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6d4d47;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    font-size: 25px;
+ }
+
+ .bord01{
+    border: ;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3D1E19;
+    transition: 0.8s;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px ;
+ }
+ .bord01:hover{
+    border: ;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6d4d47;
+    transition: 0.8s;
+    font-size: 25px;
+ }
+
+.sections01 a{
+    color: white;
+    text-shadow: 0px 0px 2px white;
+    font-size: 20px;
+}
+
+
+.content-t-img{
+    display: flex;
+    justify-content: space-between;
+    width: 1300px;
+    height: auto;
+    border:;
+}
+.content-text{
+    margin-left: 100px;
+    border: ;
+    width: 630px;
+    height: 500px;
+}
+.buttom-content{
+    border: ;
+    width: 180px;
+    height: 50px;
+    margin-left: 60px;
+    border-radius: 10px;
+    background-color: rgb(230, 161, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    color: white;
+}
+.content-img{
+    border: ;
+    width: 500px;
+    height: 500px;
+}
+
+.akoshka{
+    border: ;
+    justify-content: space-around;
+    width: 1100px;
+    height: 400px;
+    display: block;
+    margin-top: -70px;
+    border-radius: 10px;
+    background-color: white;
+    position: relative;
+    display: flex;
+}
+.akoshka div{
+    border: ;
+    width: 200px;
+    height: 400px;
+}
+
+.conteiner2{
+    margin-top: -70px;
+    width: 1400px;
+    height: auto;
+    border: ;
+    background-color: #FFFBF7;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 50px;
+    background-image: url(https://phonoteka.org/uploads/posts/2021-05/1619846703_11-phonoteka_org-p-detskaya-ploshchadka-bez-fona-dlya-fotosho-22.png);
+    background-size: cover;
+    background-position: 90px -20px;
+    background-repeat: no-repeat;
+}
+.katalog{
+    border:;
+    width: 1000px;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+}
+.katalog1{
+    border: 1px solid;
+    width: 400px;
+    height: 600px;
+    background-color: white;
+    border-top-left-radius: 90px;
+    border-bottom-right-radius: 90px;
+    display: flex;
+    justify-content: center;
+}
+.but{
+    border: ;
+    width: 300px;
+    height: 50px;
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    
+}
+.katalog3{
+    border: 1px solid;
+    width: 920px;
+    height: 400px;
+    margin-left: 30px;
+    margin-top: 80px;
+    background-color: white;
+    border-top-left-radius: 90px;
+    border-bottom-right-radius: 90px;
+    display: flex;
+    justify-content: center;
+
+}
+.katalog-img img{
+    width: 480px;
+    height: 400px;
+}
+.katalog-img2 img{
+    margin-top: 40px;
+    width: 400px;
+    height: 400px;
+}
+.but2{
+    border:;
+    width: 300px;
+    height: 50px;
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    
+}
+.katalog-img p{
+    font-size: 35px;
+    margin: 10px 0 0 100px;
+}
+.katalog-img2 p{
+    font-size: 30px;
+    margin: -30px 0 0 30px;
+
+}
+.razdel{
+    border:;
+    width: 400px;
+    height: 400px;
+}
+.razdel p{
+    font-size: 30px;
+    margin: 50px 0 0 100px;
+}
+.razdel-img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+
+
+.center-content{
+    border: ;
+    width: 1400px;
+    height: auto;
+    padding-top: 100px;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: -250px;
+}
+
+.center-content-text{
+    margin: 0 0 60px 100px;
+    font-size: 25px;
+}
+
+.bacraund-img{
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+}
+.bacraund-img2{
+    margin-top: -310px;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+.img1{
+    margin-top: 200px
+    border: ;
+    width: 1400px;
+    height: 500px;
+    border-top-left-radius: 140px;
+    border-bottom-right-radius: 140px;
+    margin-top: 30px;
+    background-image: url(img/Стройка.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* filter: grayscale(0)  */
+}
+.img1 img{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -100px;
+    position: relative;
+
+}
+.box-photo{
+    margin-top: -100px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    border: ;
+    width: 650px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #FFFBF7;
+}
+.icons-center{
+    border: ;
+    width: 150px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text-center-box{
+    border: ;
+    width: 450px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+
+.catslig-tip{
+    margin-top: 120px;
+    border: ;
+    width: 1400px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.catslig-tip div{
+    border:;
+    width: 330px;
+    height: 250px;
+}
+
+
+.pol-sayta{
+    border: ;
+    width: auto;
+    height: auto;
+    background-color: rgb(255, 180, 5);
+
+}
+.pol-conteiner{
+    border: ;
+    width: 1400px;
+    height: 600px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.sections-podval{ 
+    padding-top: 70px;
+    border: ;
+    height: 70px;
+    max-width: 1400px;
+    display: flex;
+    justify-content:space-around; 
+    align-items: center;
+}
+
+.padval-conteiner{
+    border: ;
+    width: 1400px; 
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.padval-box{
+    display: flex;
+    justify-content: center;
+    border:;
+    width: 700px;
+    height: 400px;
+    margin-left: 7px;
+}
+.podval-box2{
+    border: ;
+    width: 700px;
+    height: 400px;
+}
+
+.bord0-pol{
+    border:;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3D1E19;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    font-size: 20px;
+    transition: 0.8s;
+ }
+.bord0-pol:hover{
+    border:;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    font-size: 25px;
+ }
+
+.bord01-pol{
+    border: ;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3D1E19;
+    transition: 0.8s;
+    /* border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px ; */
+    font-size: 20px;
+ }
+ .bord01-pol:hover{
+    border: ;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3D1E19;
+    transition: 0.8s;
+    font-size: 25px;
+ }
+
+ .bord02-pol{
+    border: ;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3D1E19;
+    transition: 0.8s;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px ;
+    font-size: 20px;
+ }
+ .bord02-pol:hover{
+    border: ;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3D1E19;
+    transition: 0.8s;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px ;
+    font-size: 25px;
+ }
+ .sections01-pol{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: ;
+    width: 650px;
+    height: 60px;
+ }
+
+.padval-box div{
+    border: ;
+    width: 200px;
+    height: 400px;
+}
+.padval-box p{
+    margin-left: 30px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.podval-box2 div{
+    border: ;
+    width: 700px;
+    height: 120px;
+}
+.podval-box2-box{
+    display: flex;
+    align-items: center;
+}
+.podval-box2-box2{
+    padding-left: 50px;
+}
